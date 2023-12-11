@@ -1,0 +1,6 @@
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\obj\Debug\Karate-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\obj\Debug\Karate-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\bin\Debug\Karate-DataAccessLayer.dll
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\bin\Debug\Karate-DataAccessLayer.pdb
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\obj\Debug\Karate-DataAccessLayer.dll
+C:\Users\Progr\source\repos\Karate-DataAccessLayer\obj\Debug\Karate-DataAccessLayer.pdb

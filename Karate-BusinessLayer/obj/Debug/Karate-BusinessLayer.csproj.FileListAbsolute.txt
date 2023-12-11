@@ -1,0 +1,9 @@
+C:\Users\Progr\source\repos\Karate-BusinessLayer\obj\Debug\Karate-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\Karate-BusinessLayer\obj\Debug\Karate-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\Karate-BusinessLayer\bin\Debug\Karate-BusinessLayer.dll
+C:\Users\Progr\source\repos\Karate-BusinessLayer\bin\Debug\Karate-BusinessLayer.pdb
+C:\Users\Progr\source\repos\Karate-BusinessLayer\bin\Debug\Karate-DataAccessLayer.dll
+C:\Users\Progr\source\repos\Karate-BusinessLayer\bin\Debug\Karate-DataAccessLayer.pdb
+C:\Users\Progr\source\repos\Karate-BusinessLayer\obj\Debug\Karate-BusinessLayer.csproj.CopyComplete
+C:\Users\Progr\source\repos\Karate-BusinessLayer\obj\Debug\Karate-BusinessLayer.dll
+C:\Users\Progr\source\repos\Karate-BusinessLayer\obj\Debug\Karate-BusinessLayer.pdb
